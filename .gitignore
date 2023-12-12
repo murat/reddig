@@ -1,0 +1,7 @@
+/bin
+/.idea
+/.vscode
+cover.out
+cover.html
+*.db
+.env
